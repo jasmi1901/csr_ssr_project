@@ -29,62 +29,62 @@ project-folder
 # How to Run the Project
 ## Method 1: Open directly in browser
 
-  1.Download or clone this repository
+  1. Download or clone this repository
 
-  2.Open the project folder
+  2. Open the project folder
 
-  3.Double-click:
+  3. Double-click:
 
-    ssr.html
+      ssr.html
 
-    csr.html
+      csr.html
 
   They will open in your browser.
 
 ## Method 2: Run with VS Code Live Server (recommended)
 
-   1.Open project folder in VS Code
+   1. Open project folder in VS Code
 
-   2.Install Live Server extension
+   2. Install Live Server extension
 
-   3.Right-click ssr.html → Open with Live Server
+   3. Right-click ssr.html → Open with Live Server
 
-   4.Right-click csr.html → Open with Live Server
+   4. Right-click csr.html → Open with Live Server
 
 # Key Differences Demonstrated
 ## Server-Side Rendering (ssr.html)
 
-   *Content is present immediately in HTML
+   * Content is present immediately in HTML
 
-   *Visible instantly on page load
+   * Visible instantly on page load
 
-   *Works even if JavaScript is disabled
+   * Works even if JavaScript is disabled
 
-   *Better for SEO and reliability
+   * Better for SEO and reliability
 
 ## Client-Side Rendering (csr.html)
 
-   . HTML starts mostly empty
+   * HTML starts mostly empty
 
-   . JavaScript dynamically renders content
+   * JavaScript dynamically renders content
 
-   . Shows loading animation before content appears
+   * Shows loading animation before content appears
 
-   . Requires JavaScript to function   
+   * Requires JavaScript to function   
 
 # Features
 
-   . Modern responsive UI design
+   * Modern responsive UI design
 
-   . Glassmorphism styling
+   * Glassmorphism styling
 
-   . Dark/Light mode toggle
+   * Dark/Light mode toggle
 
-   . Loading animation for CSR
+   * Loading animation for CSR
 
-   . Same layout and content on both pages
+   * Same layout and content on both pages
 
-   . Clear demonstration of rendering differences  
+   * Clear demonstration of rendering differences  
 
 # Technologies Used
 
@@ -98,12 +98,12 @@ project-folder
 
 # Learning Outcomes
 
-     . This project helped demonstrate:
+     *  This project helped demonstrate:
 
-     . Differences between CSR and SSR
+     *  Differences between CSR and SSR
 
-     . Performance and SEO considerations
+     *  Performance and SEO considerations
 
-     . JavaScript dependency in web applications
+     *  JavaScript dependency in web applications
 
-     . User experience differences in rendering methods    
+     *  User experience differences in rendering methods    
