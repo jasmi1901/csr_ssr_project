@@ -88,22 +88,22 @@ project-folder
 
 # Technologies Used
 
-    . HTML
+   * HTML
 
-    . CSS
+   * CSS
 
-    . JavaScript 
+   * JavaScript 
 
-    . No frameworks used  
+   * No frameworks used  
 
 # Learning Outcomes
 
-     *  This project helped demonstrate:
+   *  This project helped demonstrate:
 
-     *  Differences between CSR and SSR
+   *  Differences between CSR and SSR
 
-     *  Performance and SEO considerations
+   *  Performance and SEO considerations
 
-     *  JavaScript dependency in web applications
+   *  JavaScript dependency in web applications
 
-     *  User experience differences in rendering methods    
+   *  User experience differences in rendering methods    
