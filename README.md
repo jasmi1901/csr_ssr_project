@@ -29,9 +29,9 @@ project-folder
 # How to Run the Project
 ## Method 1: Open directly in browser
 
-  1. Download or clone this repository
+  1. Download or clone this repository (https://github.com/jasmi1901/csr_ssr_project)
 
-  2. Open the project folder
+  2. Open the project folder (csr_ssr_project)
 
   3. Double-click:
 
@@ -98,12 +98,10 @@ project-folder
 
 # Learning Outcomes
 
-   *  This project helped demonstrate:
-
    *  Differences between CSR and SSR
 
    *  Performance and SEO considerations
 
    *  JavaScript dependency in web applications
 
-   *  User experience differences in rendering methods    
+   *  User experience differences in rendering methods
